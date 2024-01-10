@@ -1,3 +1,29 @@
 <resources>
-    <string name="app_name">finalprojectPAM</string>
+    <string name="app_name">EpicEats</string>
+    <string name="loading_failed">Failed to load</string>
+    <string name="retry">Retry</string>
+    <string name="loading">Loading</string>
+    <string name="mars_photo">Mars photo</string>
+    <string name="nama">Judul Resep*</string>
+    <string name="bahan">Bahan-Bahan*</string>
+    <string name="deksripsi">Deksripsi*</string>
+    <string name="waktu">Waktu*</string>
+    <string name="porsi">Porsi*</string>
+    <string name="nama1">Judul Resep</string>
+    <string name="bahan1">Bahan-Bahan :</string>
+    <string name="deksripsi1">Deksripsi :</string>
+    <string name="waktu1">Waktu :</string>
+    <string name="porsi1">Porsi :</string>
+    <string name="required_field">* required fields</string>
+    <string name="btn_submit">Submit</string>
+    <string name="entry_resep">Tambah Resep</string>
+    <string name="detail_resepa">Detail Resep</string>
+    <string name="edit_resep">Edit Resep</string>
+    <string name="back">Back</string>
+    <string name="yes">Ya</string>
+    <string name="no">Tidak</string>
+    <string name="delete">Hapus</string>
+    <string name="update">Edit</string>
+    <string name="attention">Perhatian</string>
+    <string name="tanya">Apakah anda yakin menghapus ini ?</string>
 </resources>
