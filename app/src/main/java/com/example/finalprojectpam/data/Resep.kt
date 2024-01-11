@@ -1,8 +1,5 @@
 package com.example.finalprojectpam.data
 
-import androidx.room.Entity
-import androidx.room.PrimaryKey
-
 data class Resep(
     val id: Int = 0,
     val nama_resep: String,
