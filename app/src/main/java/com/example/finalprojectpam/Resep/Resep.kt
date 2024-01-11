@@ -1,7 +1,8 @@
-package com.example.finalprojectpam.data
+package com.example.finalprojectpam.Resep
 
 data class Resep(
-    val id: Int = 0,
+    val id: String,
+    val idProfil: String,
     val nama_resep: String,
     val bahan_resep: String,
     val deskripsi: String,
