@@ -12,5 +12,5 @@ data class Resep(
     val deskripsi: String,
     val waktu: String,
     val porsi: String,
-    val kategori: String,
+    val kategori: String
 )

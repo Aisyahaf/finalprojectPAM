@@ -6,9 +6,10 @@ import androidx.room.Database
 import androidx.room.Room
 import androidx.room.RoomDatabase
 
-@Database(entities = [Resep::class], version = 1, exportSchema = false)
+@Database(entities = [Resep::class, Profil::class], version = 4, exportSchema = false)
 abstract class DatabaseResep : RoomDatabase(){
     abstract fun resepDao() : ResepDao
+    abstract fun profilDao() : ProfilDao
 
     companion object{
         @Volatile
